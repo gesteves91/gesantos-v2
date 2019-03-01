@@ -1,3 +1,4 @@
 null/
 .*
 !/.gitignore
+.DS_Store
